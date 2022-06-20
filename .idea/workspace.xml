@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68d8160a-7ace-4b27-aa28-3d4ac78d7e4d" name="Changes" comment="" />
+    <list default="true" id="68d8160a-7ace-4b27-aa28-3d4ac78d7e4d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Java_cucumber.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "C:/Users/Ronal/Desktop/prueba/Java_cucumber",
+    "last_opened_file_path": "C:/Repositorio Bios/Java_cucumber",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
